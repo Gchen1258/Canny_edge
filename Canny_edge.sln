@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Canny_edge", "Canny_edge\Canny_edge.pyproj", "{33086693-F5C3-4B80-922B-E915EAEC2AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33086693-F5C3-4B80-922B-E915EAEC2AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33086693-F5C3-4B80-922B-E915EAEC2AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BDB755B-3FEA-4A11-A0FB-FAA7DABDB551}
+	EndGlobalSection
+EndGlobal
